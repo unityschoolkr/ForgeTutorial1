@@ -50,5 +50,7 @@ MonoBehaviour:
   - {fileID: 1000012738253334, guid: feb25ecf90a8d8b4ab922a455249997b, type: 3}
   NetworkCameraNetworkObject:
   - {fileID: 139536, guid: 661f29f0c0c86fa47b6015bd602d0ac6, type: 3}
+  PlayerCubeNetworkObject:
+  - {fileID: 9156349442156839044, guid: 53d66a057b7df4b799ad923162f8b5f8, type: 3}
   TestNetworkObject: []
   automaticScenes: 1
